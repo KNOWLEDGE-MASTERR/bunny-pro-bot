@@ -26,8 +26,8 @@ I am an Anime themed group management bot.
 You can find my list of available commands with /help.
 
 Professionally made by @telegrmking for @slb_bunny on continuous request of him...😂😂
-
-Type /start to get this message or type /help to get more commands .
+:/
+The support group chat is at {} .
 """
 
 HELP_STRINGS = """
@@ -55,8 +55,8 @@ SAITAMA_IMG = "https://telegra.ph/file/46e6d9dfcb3eb9eae95d9.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 Saitama is hosted on one of Kaizoku's Servers and doesn't require any donations as of now but \
-You can donate to the original writer of the Base code, TELE KING
-There are two ways of supporting him; contact @telegrmking or @slb_bunny"""
+You can donate to the original writer of the Base code, Paul
+There are two ways of supporting him; [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
 
 IMPORTED = {}
 MIGRATEABLE = []
